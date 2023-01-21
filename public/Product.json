@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Name": "Laptop",
+    "model": "Asus vivobook s-15",
+    "img": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGxhcHRvcHxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  {
+    "id": 2,
+    "Name": "Mobile",
+    "model": "Xiomi Poco x2",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROnye0TQdbFw0m4U65oB9jP7Syvw-lFVW4gw&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "Name": "Smart Watch",
+    "model": "Apple Watch",
+    "img": "https://cdn.vox-cdn.com/thumbor/ZcFXt84LNfVFvm_Y7EiAMRAYVO8=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22908906/vpavic_211006_4796_0061.jpg"
+  },
+  {
+    "id": 4,
+    "Name": "Earbuds",
+    "model": "Mi earbuds-22",
+    "img": "https://images.squarespace-cdn.com/content/v1/5beb251ab40b9dd2724c2f46/1631701875005-BQ313CJPDZRRMD4NP39W/QCY+T13+vs+QCY+T5+best+cheap+earbuds.jpg?format=1000w"
+  }
+]
